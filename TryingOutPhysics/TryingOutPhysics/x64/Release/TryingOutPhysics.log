@@ -1,0 +1,12 @@
+﻿  main.cpp
+main.cpp(36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+main.cpp(37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+main.cpp(43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(43): warning C4305: 'argument': truncation from 'double' to 'const float'
+  Generating code
+  6 of 339 functions ( 1.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  TryingOutPhysics.vcxproj -> I:\2021\Github\CppProject14_TryingOut3D\TryingOutPhysics\x64\Release\TryingOutPhysics.exe
+  TryingOutPhysics.vcxproj -> I:\2021\Github\CppProject14_TryingOut3D\TryingOutPhysics\x64\Release\TryingOutPhysics.pdb (Full PDB)
