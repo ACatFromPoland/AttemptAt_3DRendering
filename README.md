@@ -1,2 +1,2 @@
-# CppProject14_TryingOut3D
+# TryingOut3D
  
